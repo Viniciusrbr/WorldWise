@@ -11,6 +11,8 @@ import City from "./Components/City";
 import CountryList from "./Components/CountryList";
 import Form from "./Components/Form";
 import { CitiesProvider } from "./contexts/CitiesContext";
+import { polyfillCountryFlagEmojis } from "country-flag-emoji-polyfill";
+polyfillCountryFlagEmojis();
 
 function App() {
   return (
