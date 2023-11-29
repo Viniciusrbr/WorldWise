@@ -57,7 +57,7 @@ function City() {
           target="_blank"
           rel="noreferrer"
         >
-          Confira {cityName} na Wikipedia &rarr;
+          Saiba mais sobre {cityName} na Wikipedia &rarr;
         </a>
       </div>
 
