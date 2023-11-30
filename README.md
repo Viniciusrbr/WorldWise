@@ -1,6 +1,15 @@
 # WoldWise Project
 
 <p>WorldWise é uma aplicação que permite você criar uma lista de cidades e países que você já visitou através de um mapa interativo. </p>
+<p>Para criação do mapa foi utilizado a biblioteca Leaflet</p>
+
+<h3>Tela Inicial: </h3>
+
+![tela de inicial](images/img02.png)
+<h3>Dentro do projeto: </h3>
+
+![dentro do projeto](images/img01.png)
+
 
 
 <h3>Executando o projeto: </h1>
