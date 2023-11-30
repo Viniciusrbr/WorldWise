@@ -70,6 +70,8 @@ function Form() {
   );
 
   async function handleSubmit(e) {
+    e.preventDefault();
+
     if (!cityName || !date) return;
 
     const newCity = {
