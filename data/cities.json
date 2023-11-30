@@ -4,37 +4,37 @@
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "Minha cidade favorita até agora!",
+      "date": "2022-05-17T17:46:34.000Z",
+      "notes": "Um das cidades mais bonitas da Europa.",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "38.70736183653774",
+        "lng": "-9.137535095214846"
       },
-      "id": 73930385
+      "id": 1
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2022-01-22T17:47:44.000Z",
+      "notes": "Muito frio!🥶",
+      "position": {
+        "lat": "51.50450150790452",
+        "lng": "-0.12565612792968753"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-06-21T17:48:49.000Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "48.850362273934884",
+        "lng": "2.3455810546875004"
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Incrivel 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+      "id": 3
     }
   ]
 }
